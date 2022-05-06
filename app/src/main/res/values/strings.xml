@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount:</string>
+    <string name="enter_bill_amount">Enter bill amount</string>
+    <string name="number_of_pax">Number of Pax</string>
+    <string name="enter_number_of_people">Enter number of people</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string name="no_svs">NO SVS</string>
+    <string name="svs">SVS</string>
+    <string name="no_gst">NO GST</string>
+    <string name="gst">GST</string>
+    <string name="discount">Discount (%)</string>
+    <string name="enter_discount">Enter discount (%)</string>
+    <string name="cash">Cash</string>
+    <string name="pay_now">PayNow</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+    <string name="textview" tools:ignore="DuplicateDefinition">TextView</string>
+    <string name="totalPrice">totalPrice</string>
+    <string name="eachPay">eachPay</string>
+</resources>
